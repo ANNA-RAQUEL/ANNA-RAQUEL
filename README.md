@@ -7,6 +7,6 @@ Desenvolvedora front-end e UI designer, apaixonada por tudo que envolve o univer
 Dentre as tecnologias que gosto de trabalhar estão o Javascript, Typescript, Angular e Laravel.
 
 ## Me encontre na web 🐱‍💻
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/anna-raquel-gomes-carvalho/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-raquel-gomes-carvalho/)
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anna.raquel.carvalho/)
